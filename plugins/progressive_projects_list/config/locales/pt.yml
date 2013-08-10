@@ -1,10 +1,10 @@
-pt:
-  setting_show_project_description: Mostrar descriÁ„o do projecto
+Ôªøpt:
+  setting_show_project_description: Mostrar descri√ß√£o do projecto
   setting_show_project_progress: Mostrar progresso do projecto
-  setting_show_project_progress_overview: Mostrar progresso na p·gina de vis„o geral
-  setting_show_project_menu: Mostrar men˙ de projecto
+  setting_show_project_progress_overview: Mostrar progresso na p√°gina de vis√£o geral
+  setting_show_project_menu: Mostrar men√∫ de projecto
   setting_show_only_for_my_projects: Mostrar apenas par os meus projectos
-  progressive_settings_hint: ConfiguraÁıes padr„o. Os utilizadores poder„o sobrepÙ-las por sess„o.
+  progressive_settings_hint: Configura√ß√µes padr√£o. Os utilizadores poder√£o sobrep√¥-las por sess√£o.
   label_progress: Progresso
   progressive_option_left: Esquerda
   progressive_option_right: Direita
