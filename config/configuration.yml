@@ -82,15 +82,14 @@
 default:
   # Outgoing emails configuration (see examples above)
   email_delivery:
-    delivery_method: :smtp
-    smtp_settings:
-      address: smtp.example.net
-      port: 25
-      domain: example.net
-      authentication: :login
-      user_name: "redmine@example.net"
-      password: "redmine"
-
+      delivery_method: :smtp
+      smtp_settings:
+        address: *****.*********.***
+        port: 587
+        domain: *****.*********.***
+        authentication: :login
+        user_name: "*********@*********.***"
+        password: "*********"
   # Absolute path to the directory where attachments are stored.
   # The default is the 'files' directory in your Redmine instance.
   # Your Redmine instance needs to have write permission on this
@@ -132,12 +131,6 @@ default:
   scm_cvs_command:
   scm_bazaar_command:
   scm_darcs_command:
-
-  # Absolute path to the SCM commands errors (stderr) log file.
-  # The default is to log in the 'log' directory of your Redmine instance.
-  # Example:
-  # scm_stderr_log_file: /var/log/redmine_scm_stderr.log
-  scm_stderr_log_file:
 
   # Key used to encrypt sensitive data in the database (SCM and LDAP passwords).
   # If you don't want to enable data encryption, just leave it blank.
@@ -194,13 +187,5 @@ default:
   #
   rmagick_font_path:
 
-  # Maximum number of simultaneous AJAX uploads
-  #max_concurrent_ajax_uploads: 2
-
 # specific configuration options for production environment
 # that overrides the default ones
-production:
-
-# specific configuration options for development environment
-# that overrides the default ones
-development:
