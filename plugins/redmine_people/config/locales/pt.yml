@@ -1,0 +1,60 @@
+# English strings go here for Rails i18n
+pt:
+  label_people: Utilizadores
+  label_people_edit_person: A editar informação do utilizador
+  label_people_new_person: Novo utilizador
+  label_people_group_plular: Grupos
+  label_people_search: Procurar por nome
+  label_people_show_on_map: Mostrar no mapa
+  label_people_person: Utilizador
+  label_people_all: Mostrar todos os utilizadores
+  label_people_next_birthdays: Próximos aniversários
+  label_people_new_people: Novo utilizador
+  label_people_male: Masculino
+  label_people_female: Feminino
+  label_people_settings: Configurações de utilizador
+
+  button_people_edit_profile: Editar perfil
+
+  field_people_avatar: Avatar
+  field_people_job_title: Título
+  field_people_phone: Telefone
+  field_people_phone_plural: Telefones
+  field_people_skype: Skype
+  field_people_twitter: Twitter
+  field_people_facebook: Facebook 
+  field_people_linkedin: LinkedIn
+  field_people_middlename: Nome(s) do meio
+  field_people_background: Informação adicional
+  field_people_address: Morada
+  field_people_gender: Sexo
+  field_people_birthday: Data de nascimento
+  field_people_appearance_date: Data de aparição
+  field_people_age: Idade
+
+  people_permission_edit_people: Edtar utilizador
+  people_permission_view_people: Ver utilizador
+  people_permission_add_people: Adicionar utilizador
+  people_permission_delete_people: Apagar utilizador
+  people_permission_add_attachments: Adicionar anexos
+
+  #0.0.2
+  label_people_acl_settings: configurações ACL
+  label_people_visibility: Visibilidade do utilizador
+  label_people_visibility_select: Mostrar utilizador
+  label_people_visibility_resistered: Para utlizadores registados
+  label_people_visibility_selected: Para utilizadores seleccionados
+  label_people_visibility_anonymous: Para utilizadores anónimos
+
+  #0.0.3
+  label_department_plural: Departmentos
+  label_department_new: Novo departamento
+  label_department: Departmento
+  label_department_head: Director
+  field_people_department: Departmento
+  label_people_at_department: em
+  field_department_parent: Subdepartmento de
+  people_permission_edit_departments: Editar departmentos
+
+  #0.1.5
+  people_permission_delete_departments: Apagar departamentos
