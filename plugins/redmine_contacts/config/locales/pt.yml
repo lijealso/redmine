@@ -1,49 +1,49 @@
 pt:
   contacts_title: Contactos
 
-  label_all_people: Todas as pessoas
-  label_all_companies: Todas as entidades
-  label_all_people_and_companies: Todos os contactos
-  label_recently_viewed: Vistos recentemente
-  label_gravatar_enabled: Usar Gravatar
+  label_all_people: All people
+  label_all_companies: All companies
+  label_all_people_and_companies: All contacts
+  label_recently_viewed: Visualizados recentemente
+  label_gravatar_enabled: Usar Gravatar  
   label_contacts_thumbnails_enabled: Show image thumbnails in notes
   label_max_contacts_thumbnail_file_size: Max thumbnailed image size
-  label_contacts_view_all: Ver todos os contactos
-  label_contact_files: Ficheiros
-  label_task_plural: Tarefas
-  label_contact_background_info: Informação adicional
-  label_person: Pessoa
-  label_company: Entidade   
-  label_contact_plural: Contactos
-  label_contact_information: Informação do contacto
-  label_contact_edit_information: A editar informação do contacto
+  label_contacts_view_all: View all contacts
+  label_contact_files: Files
+  label_task_plural: Tasks
+  label_contact_background_info: Background info
+  label_person: Person
+  label_company: Entidade 
+  label_contact_plural: Contactos   
+  label_contact_information: Contact Information
+  label_contact_edit_information: Editing Contact Information
   label_edit_tags: Editar tags
-  label_contact_view: Ver
-  label_contact_list: Listar
+  label_contact_view: View
+  label_contact_list: List
   label_contact_new: Novo contacto
-  label_at_company: em
+  label_at_company: at
   label_last_notes: Últimas notas
   label_tags_plural: Tags     
-  label_multi_tags_plural: Seleccionar várias tags
-  label_single_tag_mode: Tag única
-  label_multiple_tags_mode: Várias tags
+  label_multi_tags_plural: Select multilpe tags
+  label_single_tag_mode: Single tag
+  label_multiple_tags_mode: Multiple tags
   label_contact_tag: Tag
   label_time_ago: ago
-  label_add_note_plural: Adicionar nota a 
+  label_add_note_plural: Add note to 
   label_note_plural: Notas
   label_company_employees: Empregados
-  label_add_tags_rule: separar por vírgulas
+  label_add_tags_rule: devide by commas
   label_contact_search: Procurar por nome
   label_note_for: Nota para
-  label_show_on_map: Ver no mapa   
-  label_add_another_phone: adicionar telefone   
-  label_remove: apagar
-  label_related_contacts: Contactos relacionados    
+  label_show_on_map: Show on map   
+  label_add_another_phone: add phone   
+  label_remove: delete        
+  label_related_contacts: Related contacts    
   label_assigned_to: Responsável
-  label_issue_added: Tarefa adicionada
-  label_add_emails_rule: separar por vírgulas
-  label_add_phones_rule: separar por vírgulas  
-  label_add_employee: Novo empregado  
+  label_issue_added: Issue added
+  label_add_emails_rule: divide by commas
+  label_add_phones_rule: divide by commas  
+  label_add_employee: Novo empregado 
   label_merge_duplicate_plural: Fundir
   label_duplicate_plural: Possíveis duplicados
   label_duplicate_for_plural: Possíveis duplicados para
@@ -55,34 +55,34 @@ pt:
   label_note_read_more: (read more)
   label_invoice_import: Import invoices from CSV
 
-  label_deal_plural: Negócios
-  label_contractor_plural: Contactos
-  label_deal: Negócio
-  label_deal_new: Novo negócio
-  label_deal_edit_information: Editar informação do negócio   
-  label_deal_change_status: Mudar estado
-  label_statistics: Estatísticas
-  label_deals_import: Importar negócios de CSV
+  label_deal_plural: Deals
+  label_contractor_plural: Contacts
+  label_deal: Deal     
+  label_deal_new: New deal
+  label_deal_edit_information: Edit deal information   
+  label_deal_change_status: Change status
+  label_statistics: Statistics
+  label_deals_import: Import deals from CSV
   
-  label_deal_status_new: Novo
-  label_deal_status_first_contact: Primeiro contacto
-  label_deal_status_negotiations: Em negociações
-  label_deal_status_pending: Pendente 
-  label_deal_status_won: Ganho
-  label_deal_status_lost: Perdido    
+  label_deal_status_new: New
+  label_deal_status_first_contact: First contact
+  label_deal_status_negotiations: Negotiations
+  label_deal_status_pending: Pending 
+  label_deal_status_won: Won
+  label_deal_status_lost: Lost    
   
-  label_created_on: Criado em
+  label_created_on: Created on
 
-  field_note_date: Data da nota
-  field_background: Informação adicional
-  field_currency: Moeda
-  field_contact: Contacto
+  field_note_date: Note date
+  field_background: Background
+  field_currency: Currency
+  field_contact: Contact
   
-  field_deal_name: Nome
-  field_deal_background: Informação adicional
-  field_deal_contact: Contacto
-  field_deal_price: Soma  
-  field_price: Soma
+  field_deal_name: Name
+  field_deal_background: Background
+  field_deal_contact: Contact    
+  field_deal_price: Sum  
+  field_price: Sum  
   
   field_contact_avatar: Avatar
   field_contact_is_company: Entidade
@@ -90,34 +90,34 @@ pt:
   field_contact_last_name: Apelido
   field_contact_first_name: Primeiro nome
   field_contact_middle_name: Nome(s) do meio
-  field_contact_job_title: Papel na entidade
+  field_contact_job_title: Cargo
   field_contact_company: Entidade
   field_contact_address: Morada
-  field_contact_phone: Phone
+  field_contact_phone: Telefone
   field_contact_email: Email
   field_contact_website: Sítio web
   field_contact_skype: Skype
-  field_contact_status: Estado   
-  field_contact_background: Informação adicional   
+  field_contact_status: Estado
+  field_contact_background: Experiência  
   field_contact_tag_names: Tags   
-  field_first_name: Nome
+  field_first_name: Primeiro nome
   field_last_name: Apelido
-  field_company: Entidade
-  field_birthday: Aniversário
-  field_contact_department: Departamento 
+  field_company: Entidade 
+  field_birthday: Data de nascimento      
+  field_contact_department: Departmento
   
   
-  field_company_field: Tipo 
+  field_company_field: Tipo
   
-  field_color: Cor
+  field_color: Color
   
   button_add_note: Adicionar nota 
-  notice_successful_save: Gravada com sucesso 
-  notice_successful_add: Criada com sucesso
+  notice_successful_save: Saved successfully 
+  notice_successful_add: Successfully created
   notice_unsuccessful_save: Save problems
-  notice_successful_merged: Fundido com sucesso     
+  notice_successful_merged: Successfully merged     
   
-  notice_merged_warning: All the notes, projects, tags and tasks attached to this person will be moved to choosed below. The contact will then be deleted.
+  notice_merged_warning: Todas as notas, projectos, tags e tarefas associadas a esta pessoas serão movidas para o escolhido abaixo. O contacto será então eliminado.
   
   project_module_contacts_module: Contacts
   
@@ -134,153 +134,153 @@ pt:
   # 2.0.0   
   label_deal_category: Deal category   
   label_deal_category_plural: Deals categories   
-  label_deal_category_new: Nova categoria
+  label_deal_category_new: New category
   text_deal_category_destroy_assignments: Remove category assignments
   text_deal_category_destroy_question: "Some deals (%{count}) are assigned to this category. What do you want to do?"
   text_deal_category_reassign_to: Reassign deals to this category 
   text_deals_destroy_confirmation: 'Are you sure you want to delete the selected deal(s)?'  
   label_deal_status_plural: Deal statuses 
-  label_deal_status: Estado do negócio
-  field_deal_status_is_closed: Fechado
-  label_deal_status_new: Novo  
-  permission_manage_contacts: Enumerações    
+  label_deal_status: Deal status 
+  field_deal_status_is_closed: Closed 
+  label_deal_status_new: New     
+  permission_manage_contacts: Enumerations    
   label_sales_funnel: Sales funnel
   label_period: Period
   label_count: Count 
   
   #2.0.1
-  label_user_format: Formato do nome de contacto
-  label_my_contact_plural: Contactos atribuídos a mim
-  label_my_deal_plural: Negócios abertos atribuídos a mim
-  label_contact_view_all: Ver todos os contactos
-  label_deal_view_all: Ver todos os negócios
+  label_user_format: Formato do nome do contacto
+  label_my_contact_plural: Contacts assigned to me
+  label_my_deal_plural: Open deals assigned to me 
+  label_contact_view_all: View all contacts  
+  label_deal_view_all: View all deals  
   
   #2.0.2
-  label_bulk_edit_selected_contacts: Editar todos os contactos seleccionados
-  label_bulk_edit_selected_deals: Editar todos os negócios seleccionados
-  label_bulk_send_mail_selected_contacts: Enviar email aos contactos seleccionados
-  field_add_tags: Adicionar tags
-  field_delete_tags: Apagar tags
-  label_send_mail: Enviar email
-  error_empty_email: O email não pode estar vazio
-  permission_send_contacts_mail: Enviar email
-  field_mail_from: Endereço do remetente
-  text_email_macros: Macros disponíveis %{macro}
-  field_message: Mensagem
+  label_bulk_edit_selected_contacts: Edit all selected contacts
+  label_bulk_edit_selected_deals: Edit all selected deals
+  label_bulk_send_mail_selected_contacts: Send mail to selected contacts
+  field_add_tags: Add tags
+  field_delete_tags: Delete tags
+  label_send_mail: Send mail   
+  error_empty_email: Email can not be blank
+  permission_send_contacts_mail: Send mail
+  field_mail_from: From address
+  text_email_macros: Avaliable macros %{macro}
+  field_message: Message
 
   #2.0.3
-  label_add_contact: Adicionar novo contacto no projecto
-  label_contact: Contacto
-  field_age: Idade
-  label_vcf_import: Importar de vCard
-  label_mail_from: De
-  permission_import_contacts: Importar contactos   
+  label_add_contact: Add new contact in project
+  label_contact: Contact
+  field_age: Age
+  label_vcf_import: Import from vCard
+  label_mail_from: From
+  permission_import_contacts: Import contacts   
   
   #2.1.0
   field_company_name: Nome da entidade
-  label_recently_added_contacts: Contactos adicionados recentemente
-  label_created_by_me: Contactos criados por mim
-  my_contacts: Os meus contactos
-  my_deals: Os meus negócios
+  label_recently_added_contacts: Recently added contacts
+  label_created_by_me: Contacts created by me
+  my_contacts: My contacts
+  my_deals: My deals
 
   #2.2.0
   label_note_type_email: Email
-  label_note_type_call: Chamada
-  label_note_type_meeting: Reunião
-  field_deal_currency: Moeda
-  label_my_contacts_stats: Estatísticas de contactos para este mês
-  label_contacts_created: Contactos criados
-  label_deals_created: Negócios criados
-  my_contacts_avatars: Fotogradias dos meus contactos
-  my_contacts_stats: Estatísticas de contactos
-  label_add_into: Adicionar a
-  label_delete_from: Apagar de
-  label_show_deaks_tab: Mostrar aba de negócios
-  label_show_on_projects_show: Mostrar contactos na visão geral dos projectos
+  label_note_type_call: Call
+  label_note_type_meeting: Meeting
+  field_deal_currency: Currency
+  label_my_contacts_stats: Contacts statistics for this month
+  label_contacts_created: Contacts created
+  label_deals_created: Deals created
+  my_contacts_avatars: My contacts photos
+  my_contacts_stats: Contacts statistics
+  label_add_into: Add into
+  label_delete_from: Delete from
+  label_show_deaks_tab: Show deals tab
+  label_show_on_projects_show: Show contacts on projects overview
   
   #2.2.1
-  label_contacts_show_in_list: Mostrar na lista
+  label_contacts_show_in_list: Show in list
   
   #2.3.0
-  label_module_plural: Módulos
-  label_contacts_default_currency: Moeda padrão
+  label_module_plural: Modules
+  label_contacts_default_currency: Default deal currency
   label_contacts_list_partial_style: Contacts list style
   label_contacts_list_excerpt: Excerpt list
   label_contacts_list_cards: Cards
-  label_contacts_list_list: Tabela
-  field_contacts: Contacto
-  field_companies: Entidade
-  label_contacts_added_time_by: Adicioando por 
-  label_contact_note_authoring_time: Mostrar tempo da nota
+  label_contacts_list_list: Table
+  field_contacts: Contact
+  field_companies: Company
+  label_contacts_added_time_by: Adicionada por
+  label_contact_note_authoring_time: Mostrar hora da nota
   label_contact_issues_filters: Issues filters
-  label_contacts_csv_import: Importar de CSV
-  label_contacts_upload_encoding: Codificação do ficheiro
-  label_contacts_csv_file: Ficheiro CSV
-  label_contacts_csv_separator: Separador
-  field_middle_name: Nome do meio
-  field_job_title: Título
-  field_company: Entidade
-  field_address: Morada
-  field_phone: Telefone
+  label_contacts_csv_import: Import from CSV
+  label_contacts_upload_encoding: File encoding
+  label_contacts_csv_file: CSV file
+  label_contacts_csv_separator: Separator
+  field_middle_name: Middle Name
+  field_job_title: Job title
+  field_company: Company
+  field_address: Address
+  field_phone: Phone
   field_email: Email
   field_tags: Tags  
-  field_last_note: Última nota
-  field_is_company: É a entidade
-  field_contact_full_name: Nome completo
-  button_contacts_edit_query: Editar pesquisa
-  button_contacts_delete_query: Apagar pesquisa
+  field_last_note: Last note
+  field_is_company: Is company
+  field_contact_full_name: Full name
+  button_contacts_edit_query: Edit query
+  button_contacts_delete_query: Delete query
   permission_manage_public_contacts_queries: Manage public queries
-  permission_add_deals: Adicionar negócios
-  permission_add_contacts: Adicionar contactos
-  permission_save_contacts_queries: Gravas pesquisas
+  permission_add_deals: Add deals
+  permission_add_contacts: Add contacts
+  permission_save_contacts_queries: Save queries
 
   #2.3.3
-  label_contact_show_in_app_menu: Show tabs in app menu
+  label_contact_show_in_app_menu: Mostrar abas no menú da aplicação
 
   #2.3.4
-  label_contact_show_closed_issues: Show closed issues
+  label_contact_show_closed_issues: Mostrar problemas fechados
 
   #3.0.0
-  label_contacts_import: Importar
-  label_contact_note_plural: Notas de contactos  
-  label_deal_note_plural: Notas de negócios
-  label_contact_all_note_plural: Todas as notas
-  error_unable_delete_deal_status:Impossível apagar estado de negócio
-  label_contacts_hidden: Configurações escondidas
+  label_contacts_import: Import
+  label_contact_note_plural: Contacts notes  
+  label_deal_note_plural: Deal notes
+  label_contact_all_note_plural: All notes
+  error_unable_delete_deal_status: Unable delete deal status
+  label_contacts_hidden: Hidden settings
 
   #3.1.0
-  label_crm_contact_added: Contacto adicionado
-  label_crm_note_added: Nota adicioanda
-  label_crm_deal_added: Negócio adicionado
-  label_crm_deal_updated: Negócio actualizado
-  text_crm_contact_added: "O contacto %{name} foi adicionado por %{author}."
-  text_crm_deal_added: "O negócio %{name} foi adicionado por %{author}."
-  text_crm_deal_status_changed: "Estado de negócio aterado de %{old} para %{new}"
-  text_crm_deal_updated: "O negócio %{name} foi actualizado por %{author}."
+  label_crm_contact_added: Contact added
+  label_crm_note_added: Nota adicionada
+  label_crm_deal_added: Deal added
+  label_crm_deal_updated: Deal updated
+  text_crm_contact_added: "Contact %{name} has been added by %{author}."
+  text_crm_deal_added: "Deal %{name} has been added by %{author}."
+  text_crm_deal_status_changed: "Deal status changed from %{old} to %{new}"
+  text_crm_deal_updated: "Deal %{name} has been updated by %{author}."
   label_contacts_cc: Cc
   label_contacts_bcc: Bcc
-  label_contact_import: Importar a partir de CSV
-  permission_import_deals: Importar negócios
-  label_crm_single_quotes: "Aspas simples (')"
-  label_crm_double_quotes: "Aspas duplas (\")"
+  label_contact_import: Import from CSV
+  permission_import_deals: Import deals
+  label_crm_single_quotes: "Single quotes (')"
+  label_crm_double_quotes: "Double quotes (\")"
   label_crm_quotes_type: Quotation marks type
   label_contacts_visibility: Visibilidade
-  label_contacts_visibility_project: By projects permissions
+  label_contacts_visibility_project: Através das permissões de projecto
   label_contacts_visibility_public: Público
   label_contacts_visibility_private: Privado
-  permission_view_private_contacts: Ver contactos privados
-  text_crm_error_on_line: 'Erro na linha %{line}: %{error}.'
+  permission_view_private_contacts: View private contacts
+  text_crm_error_on_line: 'Error on line %{line}: %{error}.'
 
   #3.2.0
-  label_crm_probability: Probabilidade
-  label_crm_deal_status_type: Tipo de estado
-  label_crm_select_companies: Filrar entidades por negócio
-  label_crm_expected_revenue: Proveito esperado
-  label_crm_deal_due_date: Data limite
+  label_crm_probability: Probability
+  label_crm_deal_status_type: Status type
+  label_crm_select_companies: Filter companies in deal
+  label_crm_expected_revenue: Expected revenue
+  label_crm_deal_due_date: Due date
 
   #3.2.2
-  label_crm_show_deals_in_top_menu: Mostrar negócios no menú de topo
-  label_crm_show_details: Mostrar detalhes
-  label_crm_has_deals: Tem negócios
+  label_crm_show_deals_in_top_menu: Show deals in top menu
+  label_crm_show_details: Show details
+  label_crm_has_deals: Has deals
   label_crm_has_open_issues: Open issues
-  label_crm_note: Nota
+  label_crm_note: Note
