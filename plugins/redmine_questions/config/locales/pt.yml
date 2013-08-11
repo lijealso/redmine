@@ -1,0 +1,28 @@
+# English strings go here for Rails i18n
+pt:
+  label_questions: 'Fóruns'
+  label_questions_search: 'Procure por questões, respostas ou tópicos específicos ...'
+  label_questions_new: Nova questãoo
+  label_questions_message: Mensagem
+  label_questions_added_time: "Adicionado %{value} atrás"
+  label_questions_related_messages: Mensagens relacionadas
+  label_questions_latest_messages: Últimas mensagens
+  label_questions_views: '%{count} visualizações'
+  label_questions_votes: '%{count} votos'
+  label_questions_answers: '%{count} respostas'
+  label_questions_tags: Tags
+  label_questions_tagged_by: '%{count} tópico(s) com a tag %{tag}'
+  label_questions_notice_message: Notice message
+  label_questions_notice: Notice
+  label_questions_most_voted: Mais votadas
+
+  button_questions_vote: Votar
+  button_questions_unvote: Retirar voto
+  button_questions_like: Gostar
+  button_questions_unlike: Retirar gosto
+
+  field_questions_tags: Tags
+
+  permission_view_questions: Ver fóruns
+  permission_edit_messages_tags: Editar tags
+  permission_edit_vote_messages: Votar mensagens
