@@ -1,0 +1,66 @@
+--- 
+pt: 
+  allow_anon_access: "Permitir acesso anónimo?"
+  allow_sort_category_tree: "Ordenar a árvore da categoria alfabeticamente?"
+  field_tag_list: "Lista de Tags"
+  knowledgebase_title: "Base de conhecimento"
+  label_article_created: "Criado o artigo '%{title}'"
+  label_article_plural: Artigos
+  label_article_removed: "Artigo removido"
+  label_article_updated: "Artigo actualizado"
+  label_article_viewed: 
+    one: "Visto uma vez"
+    other: "Visto %{count} vezes"
+  label_category: Categoria
+  label_category_created: "Categoria criada '%{title}'"
+  label_category_deleted: "Categoria apagada"
+  label_category_not_empty_cannot_delete: "Category is assigned to articles and could not be deleted."
+  label_category_plural: Categorias
+  label_category_updated: "Categoria actualizada"
+  label_content: Conteúdo
+  label_delete_article: apagar
+  label_delete_category: "Apagar Categoria"
+  label_description: Descrição
+  label_edit_article: Editar
+  label_edit_category: "Editar categoria"
+  label_jump_category: "Ir para a categoria"
+  label_kb_home: "Página Inicial"
+  label_kb_link: "KB#%{kb_id}"
+  label_new_article: "Novo artigo"
+  label_new_category: "Nova categoria"
+  label_new_comment: "Novo comentário"
+  label_parent_category: "Categoria mãe"
+  label_root_category: "Categoria raiz"
+  label_subcategories: Sub-categorias
+  label_summary: Resumo
+  label_summary_newest_articles: "Criado %{ago} atrás em %{category}"
+  label_summary_popular_articles: 
+    one: "Visto uma vez desde %{created}"
+    other: "Visto %{count} vezes desde %{created}"
+  label_summary_toprated_articles: 
+    one: "Ranking: %{rating_avg}/%{rating_max} de um voto"
+    other: "Ranking: %{rating_avg}/%{rating_max} de %{count} votos"
+  label_summary_updated_articles: "Actualizado %{ago} atrás"
+  label_title: Título
+  label_title_articles: Artigo
+  label_title_category: Categoria
+  label_updated_who: "Actualizado por %{updater} %{age} atrás"
+  message_no_articles: "Nenhum artigo criado ainda, talvez você queira começar..."
+  message_no_categories: "Infelizmente, não existem nunhumas categorias definidas, e você tem que aceder ao sistema para criar categorias"
+  show_category_totals: "Mostrar totais da categoria numa árvore?"
+  summary_item_limit: "Limite do resumo da página da base de conhecimento"
+  title_add_comment: "Adicionar comentário"
+  title_article_rating: "Classificação do Artigo"
+  title_browse_by_category: "Navegar por Categoria"
+  title_create_article: "Criar Artigo"
+  title_create_category: "Criar Categoria"
+  title_edit_article: "Editar Artigo"
+  title_edit_category: "Editar Categoria"
+  title_most_popular_articles: "Artigos Mais Populares"
+  title_new_category: "Nova Categoria"
+  title_newest_articles: "Novos Artigos"
+  title_recently_updated_articles: "Artigos Recentemente Atualizados"
+  title_tagged_articles: "Artigos com a tag %{tag}"
+  title_tags: Tags
+  title_top_rated_articles: "Artigos Mais Bem Classificados"
+  title_votes: Votos
