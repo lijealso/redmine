@@ -1,0 +1,5 @@
+# English strings go here for Rails i18n
+pt:
+  label_tkg: "Latitude-Longitude"
+  set_lat_lng_tkg: "Seleccionar"
+  window_close_tkg: "fechar"
